@@ -6,6 +6,13 @@
     <description>All blog posts for FMC.</description>
     <atom:link href="https://rayvox.github.io/fmc/blogs.xml" rel="self" type="application/rss+xml"/>
 <item>
+  <title>Ellen Jackson: From Motherhood to 12,000 Performances of Phantom of the Opera</title>
+  <url>https://www.rayvox.co.uk/blogs/five-minute-call-podcast/ellen-jackson</url>
+  <image_url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/40349131/40349131-1715542980494-cdd8f0835d34d.jpg</image_url>
+  <contentSnippet>
+In this captivating episode of the Five Minute Call podcast, hosts Oren and Claire sit down with the incredibly talented Ellen Jackson, a veteran of the performing arts world. With a career spanning over three decades, Ellen shares her fascinating journey from her early days in Scottish Opera to he...</contentSnippet>
+  <pubDate>2024-05-13T16:00:09.000Z</pubDate>
+</item><item>
   <title>Johnny Bishop: &quot;Michael Jackson inspired my journey from Trinidad to the West End&quot;</title>
   <url>https://www.rayvox.co.uk/blogs/five-minute-call-podcast/johnny-bishop</url>
   <image_url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/40349131/40349131-1712769499529-d9badc2901a84.jpg</image_url>
@@ -26,12 +33,5 @@ In this episode of &quot;The Five Minute Call&quot; podcast, hosts Oren and Clai
   <contentSnippet>
 In the latest episode of the Five Minute Call podcast, hosts Oren and Claire dive deep into the fascinating story of Jennifer Whyte, a renowned musical director who has left her mark on numerous acclaimed productions such as Les Misérables, Avenue Q, Sunset Boulevard, The Phantom of the Opera, Para...</contentSnippet>
   <pubDate>2024-03-17T11:01:02.000Z</pubDate>
-</item><item>
-  <title>Kris Hedges-Manuel - Embracing the Ensemble / Starting a successful school during lockdown</title>
-  <url>https://www.rayvox.co.uk/blogs/five-minute-call-podcast/kris-hedges-manuel</url>
-  <image_url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/40349131/40349131-1710424673083-e138ee70d4c5e.jpg</image_url>
-  <contentSnippet>
-In the latest episode of The 5 Minute Call podcast, hosts Claire and Oren sit down with West End veteran Kris Manuel for a captivating conversation about his remarkable journey in the world of theatre. With a career spanning over two decades, Kris has graced the stages of some of the most iconic sh...</contentSnippet>
-  <pubDate>2024-03-17T10:46:03.000Z</pubDate>
 </item>  </channel>
 </rss>
